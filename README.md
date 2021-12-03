@@ -13,6 +13,7 @@ To start the project, please do the following:
 4.	Run add-migartion
 5.	Run update-database
 After you finish the steps above, the ‘ConsultantsManagement’ DB should be created with the tables.
+
 Now, you can run the project on ‘Client’:
 Once you run the project, a data will be created. 
 You can add customers and meetings as you wish, with admin user.
