@@ -16,6 +16,8 @@ After you finish the steps above, the ‘ConsultantsManagement’ DB should be c
 Now, you can run the project on ‘Client’:
 Once you run the project, a data will be created. 
 You can add customers and meetings as you wish, with admin user.
+
+
 Users:
 To login as manager:
 Username: admin
