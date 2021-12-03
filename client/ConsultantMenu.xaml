@@ -1,0 +1,40 @@
+﻿<Window x:Class="client.ConsultantMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:client"
+        mc:Ignorable="d"
+        Title="ConsultantMenu" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Select UserId:" />
+        <TextBlock Text="Enter Date:" Grid.Row="1"/>
+        <ComboBox Name="usersLst" Grid.Row="0" Grid.Column="1" DisplayMemberPath="UserName" Margin="0,4,29,15">
+
+        </ComboBox>
+        <Button VerticalAlignment="Top" Grid.Row="2" Content="See details" Width="100" Height="20" Click="SeeDetailsClick"/>
+        <Button VerticalAlignment="Top" Grid.Row="2" Content="Back" Width="100" Height="20" Click="BackClick" Grid.Column="1" Margin="30,0,30,0"/>
+
+        <DataGrid Name ="MeetingsList"  IsReadOnly="True" Grid.Row="2" Grid.ColumnSpan="5" Margin="8,39,12,14" Grid.RowSpan="4"/>
+        <Button Name="CustomerManagementClick" Content="Go to customer management" Grid.Column="3" HorizontalAlignment="Left" Margin="10,40,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="32" Grid.RowSpan="2" Width="211" Click="CustomerManagementClick_Click"/>
+        <DatePicker Name="DatePicker" Grid.Column="1" HorizontalAlignment="Center" Margin="0,3,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        
+    </Grid>
+
+
+</Window>

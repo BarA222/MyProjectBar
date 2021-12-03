@@ -1,0 +1,154 @@
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.csproj.AssemblyReference.cache
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.AssemblyInfoInputs.cache
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.AssemblyInfo.cs
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.deps.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.exe
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.exe
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.deps.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.runtimeconfig.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.runtimeconfig.dev.json
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\ref\Users.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Users.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\DAL.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.csproj.CopyComplete
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\ref\Users.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.pdb
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\obj\Debug\net5.0\Users.genruntimeconfig.cache
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Humanizer.dll
+C:\Users\baraz\source\repos\ConsultantsManagementByBarAzriel\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.deps.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.exe
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.exe
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.deps.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.runtimeconfig.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.runtimeconfig.dev.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\ref\Users.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Users.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Humanizer.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\bin\Debug\net5.0\DAL.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.csproj.AssemblyReference.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.AssemblyInfoInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.AssemblyInfo.cs
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.csproj.CoreCompileInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.csproj.CopyComplete
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\ref\Users.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Users\obj\Debug\net5.0\Users.genruntimeconfig.cache

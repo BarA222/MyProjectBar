@@ -1,0 +1,15 @@
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\DAL.deps.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\DAL.runtimeconfig.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\bin\Debug\net5.0\DAL.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Repository\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache

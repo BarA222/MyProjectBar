@@ -1,0 +1,5 @@
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\MeetingsManage\obj\Debug\net5.0\MeetingsManage.csproj.AssemblyReference.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\MeetingsManage\obj\Debug\net5.0\MeetingsManage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\MeetingsManage\obj\Debug\net5.0\MeetingsManage.AssemblyInfoInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\MeetingsManage\obj\Debug\net5.0\MeetingsManage.AssemblyInfo.cs
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\MeetingsManage\obj\Debug\net5.0\MeetingsManage.csproj.CoreCompileInputs.cache

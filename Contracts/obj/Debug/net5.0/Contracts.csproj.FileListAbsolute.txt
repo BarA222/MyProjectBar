@@ -1,0 +1,15 @@
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\DAL.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\bin\Debug\net5.0\DAL.pdb
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+C:\Users\baraz\Desktop\HackerU\משימת פרויקט אמצע\MyProject\Contracts\obj\Debug\net5.0\Contracts.pdb

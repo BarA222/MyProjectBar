@@ -1,0 +1,143 @@
+﻿<Window x:Class="client.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:client"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Management"/>
+
+        <DataGrid Grid.Row="1" AutoGenerateColumns="False" Margin="5,5,5,69" Name="MeetingDG" IsReadOnly="True">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Meeting Id" Binding="{Binding MeetingId}"/>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="Subject" Binding="{Binding MeetingSubject}"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}"/>
+                <DataGridTextColumn Header="User ID" Binding="{Binding UserId}"/>
+
+
+                <DataGridTemplateColumn Header="Update Meeting">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Edit" Click="UpdateMeetingForEditClick"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Delete Meeting">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Delete" Click="DeleteMeeting"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Grid Grid.Row="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Border Grid.Column="0" BorderBrush="Black" BorderThickness="1" Margin="5">
+                <StackPanel Margin="5">
+                    <Label Content="Add new Meeting" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                    <Grid Margin="5" x:Name="AddNewMeetingGrid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0" Content="Select user"/>
+                        <!--<TextBox Name="userId" Grid.Row="0" Grid.Column="1" Text="{Binding UserID}"/>-->
+                        <ComboBox Name="usersLst" Grid.Row="0" Grid.Column="1" DisplayMemberPath="UserName">
+                            
+                        </ComboBox>
+
+                        <Label Grid.Row="1" Grid.Column="0" Content="Select customer"/>
+                        <!--<TextBox Name="customerId" Grid.Row="1" Grid.Column="1" Text="{Binding CustomerID}"/>-->
+
+                        <ComboBox Name="customersLst" Grid.Row="1" Grid.Column="1" DisplayMemberPath="FirstName">
+                           
+                        </ComboBox>
+
+                        <Label Grid.Row="2" Grid.Column="0" Content="Subject"/>
+                        <TextBox Name="subject" Grid.Row="2" Grid.Column="1" Text="{Binding MeetingSubject}"/>
+
+                        <Label Grid.Row="3" Grid.Column="0" Content="Description"/>
+                        <TextBox Name="description" Grid.Row="3" Grid.Column="1" Text="{Binding Description}"/>
+
+                        <Button Grid.Row="4" Grid.ColumnSpan="2" Content="Add" Margin="5" Click="AddMeetingClick"/>
+
+                    </Grid>
+
+                </StackPanel>
+            </Border>
+
+
+            <Border Grid.Column="1" BorderBrush="Black" BorderThickness="1" Margin="5">
+                <StackPanel Margin="5,0,5,5" Height="165" VerticalAlignment="Bottom">
+                    <Label Content="Update Meeting" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+                    <Grid Margin="5" Name="UpdateMeetingGrid">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <DatePicker Name="DatePicker" Grid.Row="0" Grid.Column="1" Text="{Binding Date}"/>
+                        <Label Grid.Row="0" Grid.Column="0" Content="Date"/>
+                        <!--<TextBox Name="Date" Grid.Row="0" Grid.Column="1" Text="{Binding Date}"/>-->
+
+                        <Label Grid.Row="1" Grid.Column="0" Content="Subject"/>
+                        <TextBox Name="Subject" Grid.Row="1" Grid.Column="1" Text="{Binding MeetingSubject}"/>
+
+                        <Label Grid.Row="2" Grid.Column="0" Content="Description"/>
+                        <TextBox Name="Description" Grid.Row="2" Grid.Column="1" Text="{Binding Description}"/>
+
+
+
+                        <Button Grid.Row="4" Grid.ColumnSpan="2" Content="Update" Margin="5" Click="UpdateMeeting"/>
+                       
+
+                    </Grid>
+
+                </StackPanel>
+            </Border>
+
+        </Grid>
+        <Button Name="BackClick" Content="Back" HorizontalAlignment="Left" Margin="657,30,0,0" VerticalAlignment="Top" Height="18" Width="91" Click="BackClick_Click"/>
+        <Button Name="CustomerManageClick" Content="Go to customer Management" HorizontalAlignment="Left" Margin="574,155,0,0" Grid.Row="1" VerticalAlignment="Top" Height="21" Width="168" Click="CustomerManageClick_Click"/>
+
+    </Grid>
+</Window>

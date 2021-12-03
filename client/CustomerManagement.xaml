@@ -1,0 +1,69 @@
+﻿<Window x:Class="client.CustomerManagement"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:client"
+        mc:Ignorable="d"
+        Title="CustomerManagement" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Customer Management"/>
+
+        <DataGrid Grid.Row="1" AutoGenerateColumns="False" Margin="5,5,5,69" Name="CustomersDG" IsReadOnly="True">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}"/>
+                <DataGridTextColumn Header="Personal ID" Binding="{Binding PersonalId}"/>
+                <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Grid.Row="2" AutoGenerateColumns="False" Margin="5,5,5,10" Name="CustomersAndMeetingDG" IsReadOnly="True">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Customer ID" Binding="{Binding CustomerId}"/>
+                <DataGridTextColumn Header="Personal ID" Binding="{Binding PersonalId}"/>
+                <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Last Name" Binding="{Binding LastName}"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding Address}"/>
+                <DataGridTextColumn Header="Meeting ID" Binding="{Binding MeetingId}"/>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date}"/>
+                <DataGridTextColumn Header="Subject" Binding="{Binding MeetingSubject}"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding Description}"/>
+
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <Grid Grid.Row="2" RenderTransformOrigin="0.149,0.535">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="182*"/>
+                <ColumnDefinition Width="105*"/>
+                <ColumnDefinition Width="66*"/>
+                <ColumnDefinition Width="22*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="247*"/>
+                <ColumnDefinition Width="22*"/>
+                <ColumnDefinition Width="27*"/>
+                <ColumnDefinition Width="104*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+
+        <Button Name="BackClick" Content="Back" HorizontalAlignment="Left" Margin="657,30,0,0" VerticalAlignment="Top" Height="18" Width="91" Click="BackClick_Click"/>
+        <Label Content="Customers Meetings Table" HorizontalAlignment="Left" Margin="10,149,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <Label Content="Customers Table" HorizontalAlignment="Left" Margin="10,22,0,0" VerticalAlignment="Top" Width="139"/>
+
+    </Grid>
+</Window>
